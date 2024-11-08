@@ -1,5 +1,3 @@
----
-
 # The Boltcliq Company 🚀
 
 **Leading SMEs through Digital and Enterprise Transformation with Cutting-Edge Technology and Strategic Expertise**
